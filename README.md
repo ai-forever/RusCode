@@ -18,10 +18,14 @@ The ratio of the number of collected prompts by each category in the RusCode dat
 
 ### Citation
 You can cite the paper using the following BibTeX entry:
-
-    @article{RusCode,
-        author    = {Viacheslav Vasilev, Julia Agafonova, Nikolai Gerasimenko, Alexander Kapitanov, Polina Mikhailova, Evelina Mironova, Denis Dimitrov},
-        title     = {RusCode: Russian Cultural Code Benchmark for Text-to-Image Generation},
-        month     = {January},
-        year      = {2025},
+    
+    @misc{vasilev2025ruscoderussianculturalcode,
+      title={RusCode: Russian Cultural Code Benchmark for Text-to-Image Generation}, 
+      author={Viacheslav Vasilev and Julia Agafonova and Nikolai Gerasimenko and Alexander Kapitanov and Polina Mikhailova and Evelina Mironova and Denis Dimitrov},
+      year={2025},
+      eprint={2502.07455},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.07455}, 
     }
+
